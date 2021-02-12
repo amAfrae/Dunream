@@ -7,6 +7,7 @@ TagManager:
   - PLAYER
   - Ennemy
   - Grappin
+  - Shield
   layers:
   - Default
   - TransparentFX
