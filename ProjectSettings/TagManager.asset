@@ -9,6 +9,9 @@ TagManager:
   - Grappin
   - Shield
   - SidePlatform
+  - DevLight
+  - Platform
+  - ViesVar
   layers:
   - Default
   - TransparentFX
