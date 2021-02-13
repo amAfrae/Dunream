@@ -1,34 +1,31 @@
 fileFormatVersion: 2
-guid: 3193f4a244dce4441847857f8736d037
+guid: 3eeb8a612fedb5646ae586c426a5c589
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 579284518953031195
-    second: g man walk -Sheet_0
+      213: -2001516418004327417
+    second: g man attack-Sheet_0
   - first:
-      213: -8755619929403794609
-    second: g man walk -Sheet_1
+      213: 5606506483143429688
+    second: g man attack-Sheet_1
   - first:
-      213: -1797312315287029016
-    second: g man walk -Sheet_2
+      213: 8769074502373501040
+    second: g man attack-Sheet_2
   - first:
-      213: -6084687862087507190
-    second: g man walk -Sheet_3
+      213: -614887100058708171
+    second: g man attack-Sheet_3
   - first:
-      213: 1611829865162325083
-    second: g man walk -Sheet_4
+      213: -1394984468975643939
+    second: g man attack-Sheet_4
   - first:
-      213: -2327408106331904403
-    second: g man walk -Sheet_5
+      213: 9043114291533138993
+    second: g man attack-Sheet_5
   - first:
-      213: 4391096566470435385
-    second: g man walk -Sheet_6
+      213: -6175523796431370093
+    second: g man attack-Sheet_6
   - first:
-      213: -5339167258726010010
-    second: g man walk -Sheet_7
-  - first:
-      213: -7918516114833599847
-    second: g man walk -Sheet_8
+      213: -734628433801125424
+    second: g man attack-Sheet_7
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -128,12 +125,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: g man walk -Sheet_0
+      name: g man attack-Sheet_0
       rect:
         serializedVersion: 2
-        x: 10
+        x: 6
         y: 0
-        width: 56
+        width: 71
         height: 88
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -142,19 +139,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b16141863380a0800800000000000000
-      internalID: 579284518953031195
+      spriteID: 7046dbc1c6f2934e0800000000000000
+      internalID: -2001516418004327417
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: g man walk -Sheet_1
+      name: g man attack-Sheet_1
       rect:
         serializedVersion: 2
-        x: 90
+        x: 86
         y: 0
-        width: 56
+        width: 71
         height: 88
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -163,19 +160,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f4b5e8f301acd7680800000000000000
-      internalID: -8755619929403794609
+      spriteID: 83e40be11ff4ecd40800000000000000
+      internalID: 5606506483143429688
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: g man walk -Sheet_2
+      name: g man attack-Sheet_2
       rect:
         serializedVersion: 2
-        x: 170
+        x: 167
         y: 0
-        width: 56
+        width: 70
         height: 88
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -184,19 +181,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8eab1e8c8f9ae07e0800000000000000
-      internalID: -1797312315287029016
+      spriteID: 07868e2acc202b970800000000000000
+      internalID: 8769074502373501040
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: g man walk -Sheet_3
+      name: g man attack-Sheet_3
       rect:
         serializedVersion: 2
-        x: 250
+        x: 249
         y: 0
-        width: 56
+        width: 68
         height: 88
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -205,19 +202,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a03a423a0a8de8ba0800000000000000
-      internalID: -6084687862087507190
+      spriteID: 537d708b07b7777f0800000000000000
+      internalID: -614887100058708171
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: g man walk -Sheet_4
+      name: g man attack-Sheet_4
       rect:
         serializedVersion: 2
-        x: 327
+        x: 329
         y: 0
-        width: 59
+        width: 65
         height: 88
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -226,19 +223,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b5cbd57f8be5e5610800000000000000
-      internalID: 1611829865162325083
+      spriteID: dd21583340504ace0800000000000000
+      internalID: -1394984468975643939
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: g man walk -Sheet_5
+      name: g man attack-Sheet_5
       rect:
         serializedVersion: 2
-        x: 407
+        x: 409
         y: 0
-        width: 59
+        width: 69
         height: 88
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -247,19 +244,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d66e8be88a263bfd0800000000000000
-      internalID: -2327408106331904403
+      spriteID: 13c471229889f7d70800000000000000
+      internalID: 9043114291533138993
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: g man walk -Sheet_6
+      name: g man attack-Sheet_6
       rect:
         serializedVersion: 2
-        x: 490
+        x: 489
         y: 0
-        width: 57
+        width: 68
         height: 88
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -268,19 +265,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 93268eaef0f40fc30800000000000000
-      internalID: 4391096566470435385
+      spriteID: 3988cb393d12c4aa0800000000000000
+      internalID: -6175523796431370093
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: g man walk -Sheet_7
+      name: g man attack-Sheet_7
       rect:
         serializedVersion: 2
         x: 570
         y: 0
-        width: 57
+        width: 56
         height: 88
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -289,29 +286,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6637d339aa777e5b0800000000000000
-      internalID: -5339167258726010010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: g man walk -Sheet_8
-      rect:
-        serializedVersion: 2
-        x: 650
-        y: 0
-        width: 57
-        height: 88
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 99213233c87cb1290800000000000000
-      internalID: -7918516114833599847
+      spriteID: 0d1e169e4531ec5f0800000000000000
+      internalID: -734628433801125424
       vertices: []
       indices: 
       edges: []
