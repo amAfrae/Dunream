@@ -8,6 +8,7 @@ TagManager:
   - Ennemy
   - Grappin
   - Shield
+  - SidePlatform
   layers:
   - Default
   - TransparentFX
