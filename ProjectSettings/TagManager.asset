@@ -12,6 +12,7 @@ TagManager:
   - DevLight
   - Platform
   - ViesVar
+  - EnemyStop
   layers:
   - Default
   - TransparentFX
