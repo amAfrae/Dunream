@@ -15,6 +15,9 @@ TagManager:
   - EnemyStop
   - Attack
   - InteractPrompt
+  - _AUDIOMANAGER
+  - MenuOptions
+  - FPSVar
   layers:
   - Default
   - TransparentFX
