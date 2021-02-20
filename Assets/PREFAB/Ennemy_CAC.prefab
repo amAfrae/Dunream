@@ -173,7 +173,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"IsRoaming","value":{"$content":true,"$type":"System.Boolean"},"$version":"A"},{"name":"IsChasingPlayer","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[{"name":"IsRoaming","value":{"$content":true,"$type":"System.Boolean"},"$version":"A"},{"name":"IsChasingPlayer","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"Dead","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
 --- !u!61 &8433779105391440427
 BoxCollider2D:
